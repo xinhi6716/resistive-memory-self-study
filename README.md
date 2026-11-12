@@ -6,8 +6,9 @@
 | --- | --- | --- |
 | 01 · 電阻切換元件與記憶體運算 | [投影片](zh-TW/chapters/01-introduction/slides-teaching.pdf) · [講義](zh-TW/chapters/01-introduction/slides-handout.pdf) · [練習](zh-TW/chapters/01-introduction/exercises.pdf) · [詳解](zh-TW/chapters/01-introduction/solutions.pdf) | [Slides](en/chapters/01-introduction/slides-teaching.pdf) · [Handout](en/chapters/01-introduction/slides-handout.pdf) · [Exercises](en/chapters/01-introduction/exercises.pdf) · [Solutions](en/chapters/01-introduction/solutions.pdf) |
 | 02 · 陣列、選擇器與三維整合 | [投影片](zh-TW/chapters/02-arrays-selectors/slides-teaching.pdf) · [講義](zh-TW/chapters/02-arrays-selectors/slides-handout.pdf) · [練習](zh-TW/chapters/02-arrays-selectors/exercises.pdf) · [詳解](zh-TW/chapters/02-arrays-selectors/solutions.pdf) | [Slides](en/chapters/02-arrays-selectors/slides-teaching.pdf) · [Handout](en/chapters/02-arrays-selectors/slides-handout.pdf) · [Exercises](en/chapters/02-arrays-selectors/exercises.pdf) · [Solutions](en/chapters/02-arrays-selectors/solutions.pdf) |
+| 03 · 氧化還原與電阻切換機制 | [投影片](zh-TW/chapters/03-redox-mechanisms/slides-teaching.pdf) · [講義](zh-TW/chapters/03-redox-mechanisms/slides-handout.pdf) · [練習](zh-TW/chapters/03-redox-mechanisms/exercises.pdf) · [詳解](zh-TW/chapters/03-redox-mechanisms/solutions.pdf) | [Slides](en/chapters/03-redox-mechanisms/slides-teaching.pdf) · [Handout](en/chapters/03-redox-mechanisms/slides-handout.pdf) · [Exercises](en/chapters/03-redox-mechanisms/exercises.pdf) · [Solutions](en/chapters/03-redox-mechanisms/solutions.pdf) |
 
-📚 合訂講義：[繁體中文](zh-TW/combined-handout.pdf) · [English](en/combined-handout.pdf)。目前收錄第 01–02 單元；隨後續單元完成更新。
+📚 合訂講義：[繁體中文](zh-TW/combined-handout.pdf) · [English](en/combined-handout.pdf)。目前收錄第 01–03 單元；隨後續單元完成更新。
 
 參考用書：Jennifer Rupp、Daniele Ielmini、Ilia Valov 編，*Resistive Switching: Oxide Materials, Mechanisms, Devices and Operations*，Springer，2022。DOI： [10.1007/978-3-030-42424-4](https://doi.org/10.1007/978-3-030-42424-4)。教材為獨立整理，原書未收錄於此倉庫。
 
